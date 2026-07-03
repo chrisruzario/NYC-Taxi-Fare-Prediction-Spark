@@ -35,14 +35,14 @@ Dataset used: Yellow Taxi Trip Data, January 2025
 - Random Forest Regressor
 - Gradient Boosted Trees Regressor
 
-## Best Model
-Gradient Boosted Trees achieved the best performance.
+## Model Comparison
 
-| Metric | Value |
-|---|---|
-| RMSE | 3.068 |
-| R2 | 0.751 |
-| MAE | 2.306 |
+| Model | RMSE | R² | MAE |
+|:------|------:|------:|------:|
+| Linear Regression | 3.31 | 0.71 | 2.49 |
+| Decision Tree | 3.16 | 0.74 | 2.38 |
+| Random Forest | 3.08 | 0.75 | 2.32 |
+| **Gradient Boosted Trees** | **3.07** | **0.75** | **2.31** |
 
 ## Repository Structure
 ```text

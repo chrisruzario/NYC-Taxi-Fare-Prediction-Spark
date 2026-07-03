@@ -1,35 +1,35 @@
 # Power BI Dashboards
 
-These interactive dashboards were developed in Power BI using the cleaned NYC Yellow Taxi dataset (831K trips). They summarize key operational metrics, travel patterns, fare behaviour, and location-based insights.
+The following dashboards were developed in Power BI using the cleaned NYC Yellow Taxi dataset (831,561 trips). They provide business insights into trip demand, fare behaviour, passenger trends, temporal patterns, and location-based analysis.
 
 ---
 
 ## 1. Overview & KPIs Dashboard
 
-This dashboard provides a high-level overview of the dataset through key performance indicators (KPIs), including total trips, average fare, average trip duration, and average distance. It also includes interactive filters for payment type, vendor, and time of day, allowing users to explore different aspects of the dataset.
+This dashboard provides a high-level overview of the dataset using key performance indicators such as total trips, average fare, average total amount, average trip duration, and average trip distance. It also includes interactive filters for payment method, vendor, and time of day to support dynamic exploration.
 
-<img src="[images/overview_dashboard.png](https://github.com/chrisruzario/NYC-Taxi-Fare-Prediction-Spark/blob/main/images/images/WhatsApp%20Image%202026-04-15%20at%2011.38.42%20PM.jpeg)" width="1000">
+<img src="WhatsApp Image 2026-04-15 at 11.38.42 PM.png" width="1000">
 
 ---
 
 ## 2. Trip & Fare Analysis Dashboard
 
-This dashboard explores the relationship between trip characteristics and fare amount. It visualizes trip distance, trip duration, passenger count, fare distributions, and hourly fare trends to identify the key factors influencing taxi pricing.
+This dashboard examines the relationship between trip characteristics and fare amount. It includes analyses of trip distance, trip duration, passenger count, hourly fare trends, and fare distributions, helping identify the key drivers of taxi pricing.
 
-<img src="images/trip_fare_analysis.png" width="1000">
-
----
-
-## 3. Temporal Patterns Dashboard
-
-This dashboard focuses on time-based travel behaviour. It presents daily trip volume, hourly demand, average fare by day, hourly tip percentage, and a heatmap showing taxi activity across different days and hours.
-
-<img src="images/temporal_patterns.png" width="1000">
+<img src="WhatsApp Image 2026-04-15 at 11.39.09 PM.png" width="1000">
 
 ---
 
-## 4. Location & Surcharge Dashboard
+## 3. Location & Surcharge Dashboard
 
-This dashboard analyzes pickup locations, airport versus non-airport trips, surcharge components across different times of day, and average fare by rate code. It provides additional geographical and pricing insights into taxi operations.
+This dashboard focuses on pickup locations, airport versus non-airport trips, surcharge components across different times of day, and average fare by rate code. It provides additional operational insights into fare composition and trip locations.
 
-<img src="images/location_surcharge.png" width="1000">
+<img src="WhatsApp Image 2026-04-15 at 11.39.34 PM.png" width="1000">
+
+---
+
+## 4. Temporal Patterns Dashboard
+
+This dashboard analyzes temporal travel behaviour by visualizing daily trip volume, trips by time of day, average fare by day, hourly tip percentage, and a heatmap of trip activity across different days and hours.
+
+<img src="WhatsApp Image 2026-04-15 at 11.39.57 PM.png" width="1000">

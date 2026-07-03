@@ -1,0 +1,8 @@
+
+## requirements.txt
+
+```text
+pyspark
+delta-spark
+pandas
+matplotlib

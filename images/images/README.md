@@ -8,7 +8,7 @@ The following dashboards were developed in Power BI using the cleaned NYC Yellow
 
 This dashboard provides a high-level overview of the dataset using key performance indicators such as total trips, average fare, average total amount, average trip duration, and average trip distance. It also includes interactive filters for payment method, vendor, and time of day to support dynamic exploration.
 
-<img src="WhatsApp Image 2026-04-15 at 11.38.42 PM.png" width="1000">
+<img src="WhatsApp Image 2026-04-15 at 11.38.42 PM.jpeg" width="1000">
 
 ---
 

@@ -8,7 +8,7 @@ These interactive dashboards were developed in Power BI using the cleaned NYC Ye
 
 This dashboard provides a high-level overview of the dataset through key performance indicators (KPIs), including total trips, average fare, average trip duration, and average distance. It also includes interactive filters for payment type, vendor, and time of day, allowing users to explore different aspects of the dataset.
 
-<img src="images/overview_dashboard.png" width="1000">
+<img src="[images/overview_dashboard.png](https://github.com/chrisruzario/NYC-Taxi-Fare-Prediction-Spark/blob/main/images/images/WhatsApp%20Image%202026-04-15%20at%2011.38.42%20PM.jpeg)" width="1000">
 
 ---
 

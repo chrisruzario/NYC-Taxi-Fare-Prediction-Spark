@@ -16,7 +16,7 @@ This dashboard provides a high-level overview of the dataset using key performan
 
 This dashboard examines the relationship between trip characteristics and fare amount. It includes analyses of trip distance, trip duration, passenger count, hourly fare trends, and fare distributions, helping identify the key drivers of taxi pricing.
 
-<img src="WhatsApp Image 2026-04-15 at 11.39.09 PM.png" width="1000">
+<img src="WhatsApp Image 2026-04-15 at 11.39.09 PM.jpeg" width="1000">
 
 ---
 

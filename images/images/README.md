@@ -32,4 +32,4 @@ This dashboard focuses on pickup locations, airport versus non-airport trips, su
 
 This dashboard analyzes temporal travel behaviour by visualizing daily trip volume, trips by time of day, average fare by day, hourly tip percentage, and a heatmap of trip activity across different days and hours.
 
-<img src="WhatsApp Image 2026-04-15 at 11.39.57 PM.png" width="1000">
+<img src="WhatsApp Image 2026-04-15 at 11.39.34 PM.jpeg" width="1000">

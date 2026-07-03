@@ -24,7 +24,7 @@ This dashboard examines the relationship between trip characteristics and fare a
 
 This dashboard focuses on pickup locations, airport versus non-airport trips, surcharge components across different times of day, and average fare by rate code. It provides additional operational insights into fare composition and trip locations.
 
-<img src="WhatsApp Image 2026-04-15 at 11.39.34 PM.png" width="1000">
+<img src="WhatsApp Image 2026-04-15 at 11.39.57 PM.jpeg" width="1000">
 
 ---
 
